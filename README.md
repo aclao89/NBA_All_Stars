@@ -8,10 +8,15 @@ TThe National Basketball Association All-Star Game is a basketball exhibition ga
 
 The starting lineup for each squad is selected by a combination of fan, player, and media voting, [1] while head coaches choose the reserves. The starting five from each conference consists of three frontcourt players and two guards.
 
-In this project, I performed an exploratory analysis of the NBA All-Stars roster from 2000 to 2016 to examine the commonalities and differences of an All-Star. 
+In this project, I performed an exploratory analysis of the NBA All-Stars roster from 2000 to 2016 to examine the commonalities and differences of an All-Star.
 
-                                                        Exploration Questions
-                                                        
+                                                        Jupyter Notebook Screengrabs
+
+![notebook screen grab](https://github.com/aclao89/NBA_All_Stars/raw/master/Images/Capture.PNG)
+
+
+                                                            Exploration Questions
+
 
 
 
