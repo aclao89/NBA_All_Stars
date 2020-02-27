@@ -16,7 +16,7 @@ In this project, I performed an exploratory analysis of the NBA All-Stars roster
 
 
 
-I noticed the original height column, HT.1, was in the month-day format. I wrote a formula =MONTH(E3) & "'" & DAY(E3) to convert into correct height format.
+I noticed the original height column, E , was in the month-day format. I wrote a formula =MONTH(E3) & "'" & DAY(E3) to convert into height format in column D.
 
 ![excel height conversion](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture1.PNG)
 
