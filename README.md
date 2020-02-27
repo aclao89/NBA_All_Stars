@@ -10,12 +10,19 @@ The starting lineup for each squad is selected by a combination of fan, player, 
 
 In this project, I performed an exploratory analysis of the NBA All-Stars roster from 2000 to 2016 to examine the commonalities and differences of an All-Star.
 
-                                                        Jupyter Notebook Screengrabs
+                                                    Jupyter Notebook Screengrabs
 
 ![notebook screen grab](https://github.com/aclao89/NBA_All_Stars/raw/master/Images/Capture.PNG)
 
 
-                                                            Exploration Questions
+
+I noticed the original height column, HT.1, was in the month-day format. I wrote a formula =MONTH(E3) & "'" & DAY(E3) to convert into correct height format.
+
+![excel height conversion](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture1.PNG)
+
+
+
+                                                        Exploration Questions
 
 
 
