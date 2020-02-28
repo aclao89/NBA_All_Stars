@@ -16,21 +16,21 @@ Load the libraries and read file to browse columns.
 
 ![notebook screen grab](https://github.com/aclao89/NBA_All_Stars/raw/master/Images/Capture.PNG)
 
-===========================================================================================
+================================================================================
 
 
 I noticed the original height column, E , was in the month-day format. I wrote a formula =MONTH(E3) & "'" & DAY(E3) to convert into height format in column D.
 
 ![excel height conversion](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture1.PNG)
 
-===========================================================================================
+================================================================================
 
 
 I separated the NBA Draft Status column into three different columns: Draft Year, Round, and Pick for better analysis.
 
 ![split NBA draft column](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture3.PNG)
 
-===========================================================================================
+================================================================================
 
 
 The Position (Pos) column had too many iterations for the same position. For example forward (F), small forward (SF), power forward (PF), can be confusing and hard to analyze. I categorized into three positions: guard (G), forward (F), and center (C).
@@ -46,14 +46,14 @@ The Position (Pos) column had too many iterations for the same position. For exa
 
 ![all stars by team](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture5.PNG)
 
-===========================================================================================
+================================================================================
 
 
 2. Which teams have the most All-Stars by each year? Are there teams whom have a drought of All-Stars? Are there teams whom have been dominant in drafting potential All-Stars or attracting All-Star talents?
 
 ![all star by year and team](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture6.PNG)
 
-===========================================================================================
+================================================================================
 
 
 3. How balanced is the selection process? Coaches, fan, and media get to vote players in each conference.
@@ -65,7 +65,7 @@ The Position (Pos) column had too many iterations for the same position. For exa
 
 ![draft status equates to all star](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture8.PNG)
 
-===========================================================================================
+================================================================================
 
 
 5. Has an undrafted player even made an All-Star appearance?
@@ -74,7 +74,7 @@ The Position (Pos) column had too many iterations for the same position. For exa
 
 Between the 1988 to 2013 draft classes, Ben Wallace and Brad Miller were the only two undrafted players to become All-Stars. Wallace had 4 appearances!
 
-===========================================================================================
+================================================================================
 
 References:
 [1] "How NBA's new voting format determined All-Star starters, snubs". ESPN. Retrieved 2017-07-03.
