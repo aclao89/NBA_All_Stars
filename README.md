@@ -12,6 +12,8 @@ In this project, I performed an exploratory analysis of the NBA All-Stars roster
 
                                                         Data Cleaning
 
+Load the libraries and read file to browse columns.                                                        
+
 ![notebook screen grab](https://github.com/aclao89/NBA_All_Stars/raw/master/Images/Capture.PNG)
 
 
@@ -24,15 +26,31 @@ I noticed the original height column, E , was in the month-day format. I wrote a
 
 I separated the NBA Draft Status column into three different columns: Draft Year, Round, and Pick for better analysis.
 
-1[split NBA draft column]()
+![split NBA draft column](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture3.PNG)
+
+
+
+The Position (Pos) column had too many iterations for the same position. For example forward (F), small forward (SF), power forward (PF), can be confusing and hard to analyze. I categorized into three positions: guard (G), forward (F), and center (C).
+
+![real positions](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture4.PNG)
+
+
+
+
+
 
                                                         Exploration Questions
 
+1. Which teams have the most All-Star players between 2000 and 2016?
+
+![all stars by team](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture5.PNG)
 
 
 
 
+2. Which teams have the most All-Stars by each year? Are there teams whom have a drought of All-Stars? Are there teams whom have been dominant in drafting potential All-Stars or attracting All-Star talents?
 
+![all star by year and team](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture6.PNG)
 
 
 
