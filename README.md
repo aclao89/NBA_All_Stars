@@ -60,6 +60,8 @@ The Position (Pos) column had too many iterations for the same position. For exa
 
 ![vote selection](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture7.PNG)
 
+================================================================================
+
 
 4. How accurate are NBA scouts? Is a top pick more likely to be an All-Star caliber player?
 
