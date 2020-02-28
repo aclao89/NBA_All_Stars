@@ -76,5 +76,26 @@ Between the 1988 to 2013 draft classes, Ben Wallace and Brad Miller were the onl
 
 ================================================================================
 
+
+6. Which player between the 1988 to 2013 draft classes had the most All-Star appearances?
+
+![all star appearances 2000_2016](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture10.PNG)
+
+================================================================================
+
+
+7. Who is the youngest player to be an All-Star? Oldest in terms of years in the years in the league?
+
+![young and old All Stars](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture11.PNG)
+
+================================================================================
+
+
+8. What are the trends of the positions from 2000 to 2016?
+
+![positions trends](https://github.com/aclao89/NBA_All_Stars/blob/master/Images/Capture12.PNG)
+
+================================================================================
+
 References:
 [1] "How NBA's new voting format determined All-Star starters, snubs". ESPN. Retrieved 2017-07-03.
